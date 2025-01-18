@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contracts>
+        
+  
+  <contract>
+                
+    
+    <contractID>4RDW</contractID>
+                
+    
+    <originCity>Victoria</originCity>
+                
+    
+    <destCity>Prince George</destCity>
+                
+    
+    <orderItem>Flowers</orderItem>
+            
+  
+  </contract>
+        
+  
+  <contract>
+                
+    
+    <contractID>8EKD</contractID>
+                
+    
+    <originCity>Vancouver</originCity>
+                
+    
+    <destCity>Victoria</destCity>
+                
+    
+    <orderItem>Vegetable</orderItem>
+            
+  
+  </contract>
+        
+  
+  <contract>
+                
+    
+    <contractID>3HQC</contractID>
+                
+    
+    <originCity>Seattle</originCity>
+                
+    
+    <destCity>Vancouver</destCity>
+                
+    
+    <orderItem>Pharmaceutical</orderItem>
+            
+  
+  </contract>
+        
+  
+  <contract>
+                
+    
+    <contractID>2ABB</contractID>
+                
+    
+    <originCity>Victoria</originCity>
+                
+    
+    <destCity>Vancouver</destCity>
+                
+    
+    <orderItem>Vegetable</orderItem>
+            
+  
+  </contract>
+        
+  
+  <contract>
+                
+    
+    <contractID>1ICS</contractID>
+                
+    
+    <originCity>Victoria</originCity>
+                
+    
+    <destCity>Vancouver</destCity>
+                
+    
+    <orderItem>Projector</orderItem>
+            
+  
+  </contract>
+        
+  
+  <contract>
+                
+    
+    <contractID>1XXX</contractID>
+                
+    
+    <originCity>Victoria</originCity>
+                
+    
+    <destCity>Vancouver</destCity>
+                
+    
+    <orderItem>Abcd</orderItem>
+            
+  
+  </contract>
+    
+  
+  <contract>
+        
+    <contractID>2XXX</contractID>
+        
+    <originCity>Victoria</originCity>
+        
+    <destCity>Vancouver</destCity>
+        
+    <orderItem>Abcd</orderItem>
+      
+  </contract>
+  
+  <contract>
+    <contractID>2VIC</contractID>
+    <originCity>Victoria</originCity>
+    <destCity>Vancouver</destCity>
+    <orderItem>Phone</orderItem>
+  </contract>
+</contracts>
